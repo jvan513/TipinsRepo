@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: Tipin.Darkie
+Version: 1.0
+Section: Themes
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./themes/Tipin.Darkie
+Size: 49892755
+Description: Dark theme for ios
+Name: Tipin Darkie
+Author: Reposi3 <reposithree@gmail.com>
+
