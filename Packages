@@ -30,7 +30,6 @@ Package: Tipin.Darkie
 Version: 1.0
 Section: Themes
 Maintainer: Tipin <reposithree@gmail.com>
-Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./themes/Tipin.Darkie
 Size: 49892755
